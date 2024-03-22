@@ -3,24 +3,30 @@
 layout: home
 
 hero:
-  name: "DaLin Docs"
-  text: "Dokumentace k projektu"
-  tagline: Dokumentace k používání projektu. Případně jak pomoci s vývojem.
+  name: "DaLin"
+  text: "Aplikace pro správu klubu orientčních sportů"
+  tagline: Dokumentace k používání projektu který zjedoduší správu klibu oriantečních sportů.
   actions:
     - theme: brand
       text: Nápověda
       link: /napoveda/index
+    - theme: alt
+      text: Co je nového
+      link: /changelog/
     - theme: alt
       text: Pomoc s vývojem
       link: /develop/
       
 
 features:
-  - title: Jednoduše
-    details: Co možná nejvíce zjednodušit agendu správy klubu orientačního běhu maximálně používající ORIS API.
-  - title: Postaveno na PHP
-    details: Projekt staví na PHP Laravel frameworku. Jedná se celkem standardní PHPko, změny by neměly dělat problém.
-  - title: OpenSource
-    details: S projektem lze nakládat podle vlastního uvážení. Plánuje se ale pravidelná aktualizace která u forků nemusí fungovat.
+  - icon: ⚡️
+    title: Snadno a přehledně
+    details: Cílem je co možná nejvíce zjednodušit agendu správy klubu orientačního běhu s využitím podpory v ORISu. Aplikace má již řadu automatizací a další se chystají.
+  - icon: 🎉
+    title: Zdarma nástroj - OpenSource
+    details: Celá aplikace je distribuována pod svobodnou licencí. Projekt instalujte, používejte. Pokud budete chtít pomoci s vývoje, jsme vítání. Stačí se jen ozvat.
+  - icon: 🔥  
+    title: Jednoduchá instalace
+    details: Projekt není náročný na hosting, stačí PHP ve verzi 8.3 a MySQL databázi verze 8.x. Nakoukněte do dokumentace jak projek vypadá. Za vyzkoušení nic nedáte.
 ---
 
