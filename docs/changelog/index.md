@@ -5,6 +5,17 @@ editLink: true
 
 # Changelog projektu
 
+## Verze 10.9.1 <Badge type="info" text="30.03.2024" />
+
+### :mega: Novinky
+- Přepracovaný dialog přihlášek na závody.
+  - poznámka a požadavek na start byl sktyt do rozvíracího menu
+  - požadavek na start je možné doplnit z připravenéhé vzoru. Mělo by se jednat o nejčastěji používané vzory požadavků.
+
+### :wrench: Opravené bugy
+- Opravena automatický update Závodů/udáslostí z ORISu.
+- Už se neposílají notifikace neaktivním uživatelům.
+
 ## Verze 10.9 <Badge type="info" text="20.03.2024" />
 
 ### :mega: Novinky

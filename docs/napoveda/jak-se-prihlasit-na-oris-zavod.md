@@ -8,12 +8,20 @@ editLink: true
 1. V menu **Závod/Akce** přejdu na kalendář závodů.
 2. Kliknu na konkrétní závod (kdekoliv na řádku závodu)
 3. V kartě závodu vidím potřebné informace o závodu, v pravo nahoře kliknu na tlačítko **Přihlásit na závod**.
-4. V otevřeném dialogu zvolím konkrétní závodní profil. Závodníka kterého chci dále přihlašovat. Pod jedním účtem mohu mít vice závodníků.
-5. Kliknu na tlačítko **lupy** - načtou se kategorie do kterých mě ORIS dovolí se přihlásit. Pokud závod nezpracovává ORIS, není ikona lupy zobrazena, kategorie nabízeny rovnou.
-6. Vyberu konkrétní **kategorii**
-7. Doplním všechny ostatní pole jako poznámka, interní poznámka,  číslo čipu ...
-8. Pokud se jedná o etapový závod, jsou v rozvíracím menu automaticky vyplněny všechny etapy
-    - Etapy mohu křížkem u Etapy odstranit a budu přihlášen pouze do vybraných Etap.
+4. V otevřeném dialogu zvolím konkrétní registrační číslo závodníka kterého chci přihlašovat. Pod jedním účtem mohu mít vice závodníků.
+5. Vyberu konkrétní **kategorii**
+6. Doplním číslo SI pokud se nevyplní samo z [profilu závodníka](member-race-profile).
+7. Pokud se jedná o etapový závod, jsou v rozvíracím menu automaticky vyplněny všechny etapy
+   - Etapy mohu křížkem u Etapy odstranit a budu přihlášen pouze do vybraných Etap.
+8. Ostatní údaje 
+   - Poznámka pro organizátory
+   - Poznámka klubová
+   - Požadavky na start - kterou lze doplnit z přepřipraveného vzoru.
+
+::: warning Jedná se pouze o návrh nějčastěji používaných vzorů
+Konkrétní znění požadavku na start prosím porostudujte s oficiální specifikací na [stránkách ORISu](https://oris.orientacnisporty.cz/files/help/Pozadovane-starty-prihlasky.pdf)
+:::
+
 8. Kliknu na tlačítko **Přihlásit**. Tímto jsem přihlášen k závodu.
 9. Případně opakuji od bodu 3. pro dalšího závodníka, v případ že chci přihlásit více závodníků na jeden závod.
 
