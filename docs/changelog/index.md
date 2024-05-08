@@ -5,6 +5,18 @@ editLink: true
 
 # Changelog projektu
 
+## Verze 10.10 <Badge type="info" text="05.05.2024" />
+
+### :mega: Novinky
+- Přídán update **rychlých novinek** viz [5.6.4 verze ORISu](https://oris.orientacnisporty.cz/Verze).
+  - Novinky se zobrazují na kartě závodu chronologicky jak jsou zapsány v ORISu. Při editaci závodu je možné novinky upravovat.
+- V uživatelích je **možné editovat závodní profily** konkrétního uživatele.
+- Do seznamu závodů byly přidány **ikony poplatné sportID** (OB, MTBO, LOB a Trail)
+
+### :wrench: Opravené bugy
+- Oprava v detailu závodu - Vytváření / upravování kategorií.
+- Oprava v detailu závodu - Vytváření / upravování doplňkových služeb.
+
 ## Verze 10.9.1 <Badge type="info" text="30.03.2024" />
 
 ### :mega: Novinky
