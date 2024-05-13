@@ -13,6 +13,7 @@ která může uživatel provádět. V aplikaci je možné získat následující
 - **Organizátor akcí** - u vytvořených závodů může provádět pokročilejší operace. Nemůže zakládat nové závody nebo je upravovat.
 - **Redaktor** - spravuje obsah stránek, týkající se novinek, stránek médii a kategorizace obsahu
 - **Finančník** - má rozšířené práva k finančním činnostem
+- **Admin Klubu** - rozšířená práva na správu klubových náležitostí
 - **Super Administrátor** - neomezená práva na všechny operace
 
 ::: info Nápověda
@@ -53,6 +54,10 @@ Uživatelé s touto rolí mohou vytvářet kategorie stránek a tyto různé v k
 ## Finančník
 
 Stará se o finanční stránku oddílů.
+
+## Admin klubu
+
+Je osoba spravující klubové nastavení. Upravuje členská práva, přidává registrace uživatelům apod.
 
 ## Super Admin
 

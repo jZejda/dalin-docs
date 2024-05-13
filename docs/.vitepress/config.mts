@@ -72,6 +72,12 @@ export default defineConfig({
                 { text: 'Zaslat upozornění', link: '/napoveda/jak-poslat-upozorneni-prihlasenym-zavodnikum' },
                 { text: 'Export dat o závodu', link: '/napoveda/jak-exportovat-data-o-zavodu' },
               ]
+            },
+            {
+              text: 'Admin klubu',
+              items: [
+                { text: 'Vytvořit registraci', link: '/napoveda/jak-pridat-uzivateli-registraci' },
+              ]
             }
           ]
         }
