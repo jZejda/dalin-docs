@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "DaLin"
   text: "Aplikace pro správu klubu orientčních sportů"
-  tagline: Dokumentace k používání projektu který zjedoduší správu klibu oriantečních sportů.
+  tagline: Dokumentace k používání projektu který zjedoduší správu klubu oriantečních sportů.
   actions:
     - theme: brand
       text: Nápověda
