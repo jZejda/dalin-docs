@@ -20,8 +20,16 @@ export default defineConfig({
     nav: [
       { text: 'Domů', link: '/' },
       { text: 'Uživatelská příručka', link: '/napoveda/index' },
+      { text: 'Instalace', link: '/install/index' },
       { text: 'Vývoj projektu', link: '/develop/index' },
-      { text: 'Changelog', link: '/changelog/index' },
+      {
+        text: 'Verze 11.1',
+        items: [
+          { text: 'Aktuality ve verzi 11.x', link: '/changelog/index' },
+          { text: 'Verze 10.x', link: '/changelog/v10' },
+          { text: 'GitHub releases', link: 'https://github.com/jZejda/dalin/releases' }
+        ]
+      },
     ],
 
     sidebar: {
@@ -83,7 +91,17 @@ export default defineConfig({
         }
       ],
 
-      // This sidebar gets displayed when a user
+      // install
+      '/install/': [
+        {
+          text: 'Instalace',
+          items: [
+            { text: 'Úvod', link: '/install/index' },
+            { text: 'Konfigurace stránky', link: '/install/site-config' },
+          ]
+        }
+      ],
+
       // is on `config` directory.
       '/develop/': [
         {
@@ -98,10 +116,10 @@ export default defineConfig({
       // Changelog
       '/changelog/': [
         {
-          text: 'Changelog',
+          text: 'Novinky',
           items: [
-            { text: 'Změny', link: '/changelog/index' },
-            { text: 'Verze 10', link: '/changelog/v10' },
+            { text: 'Verze 11.x', link: '/changelog/index' },
+            { text: 'Verze 10.x', link: '/changelog/v10' },
           ]
         }
       ]
@@ -118,7 +136,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Vydáno pod MIT licencí.',
-      copyright: 'Copyright © 2023-present Jiří Zejda'
+      copyright: 'Copyright © 2023-dosud Jiří Zejda'
     }
   }
 })
