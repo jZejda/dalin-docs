@@ -8,16 +8,16 @@ editLink: true
 Pokud jsi obdržel e-mail s heslom na portál, budeš mít pravděpodobně základni [roli Člen](role-v-aplikaci). Jako **člen** se můžeš příhlašovat/odhlašovat na závody
 a různě se účastnit oddílových akcí.
 
-Po přihlášení uvidíš úvodní oprazovku se sournem informací. Je zde videte stav osobního konta a pod.
+Po přihlášení uvidíš úvodní oprazovku se souhrnem informací. Je zde vidět stav osobního konta a pod.
 
 ----
 
 Doporučujeme v bodech zkontrolovat tyto stránky:
-1. Na stránce Notifikací - si nastav zasílání zpráv podle preference
-2. Na stránce Finance zkontroluj přehled transakcí.
+1. Na stránce [Nastavení notifikací](stranka-nastaveni-notifikaci.md) - si nastav zasílání zpráv podle preference
+2. Na stránce [Finance](stranka-finance.md) zkontroluj přehled transakcí.
 3. Na stránce Moje registrace zkontroluj údaje všech registrací které spravuješ.
+4. Na stránce [Závod/Akce](stranka-zavody-akce.md) se podívej na aktuální akce, na které je možné se [přihlásit](jak-se-prihlasit-na-oris-zavod).
 
-Jakmile máš zkontrolováno a vše je v pořádku nic nebrání se [přihlásit na závody](jak-se-prihlasit-na-oris-zavod). To uděláš na stránce **Závod**
 
 ## Mohlo by se dále hodit
 

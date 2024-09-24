@@ -23,7 +23,7 @@ export default defineConfig({
       { text: 'Instalace', link: '/install/index' },
       { text: 'Vývoj projektu', link: '/develop/index' },
       {
-        text: 'Verze 11.1',
+        text: 'Verze 11.2',
         items: [
           { text: 'Aktuality ve verzi 11.x', link: '/changelog/index' },
           { text: 'Verze 10.x', link: '/changelog/v10' },
@@ -42,7 +42,7 @@ export default defineConfig({
           items: [
             { text: 'Jsem tu nový', link: '/napoveda/index' },
             { text: 'Usnadnění procesů', link: '/napoveda/usnadneni-procesu' },
-            { text: 'Ovládání aplikace', link: '/napoveda/ovladani-aplikace' },
+            // { text: 'Ovládání aplikace', link: '/napoveda/ovladani-aplikace' },
           ]
         },
         {
@@ -50,7 +50,10 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Závod/Akce', link: '/napoveda/stranka-zavody-akce' },
+            { text: 'Detail akce', link: '/napoveda/stranka-zavod-detail' },
             { text: 'Přihlášky na akce', link: '/napoveda/stranka-prihlasky' },
+            { text: 'Nastavení notifikací', link: '/napoveda/stranka-nastaveni-notifikaci' },
+            { text: 'Finance', link: '/napoveda/stranka-finance' },
             { text: 'Registrace', link: '/napoveda/stranka-registrace' },
             { text: 'Závodní profil', link: '/napoveda/member-race-profile' },
           ]
