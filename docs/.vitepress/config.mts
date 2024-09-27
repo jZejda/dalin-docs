@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "DaLin",
-  description: "DaLin dokumentace k projektu",
+  title: "dalin",
+  description: "dalin - příručka",
   lastUpdated: true,
   base: '/dalin/',
   sitemap: {

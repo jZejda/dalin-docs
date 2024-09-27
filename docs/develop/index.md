@@ -14,7 +14,7 @@ je super napsat co je špatně a třeba o tom i podiskutovat jestli by se to dal
 a dokážu popsat chování nové funkce. Takový malý produktová manager. Ukoly pak naplánovat a případně prioritizovat co by se mělo udělat dříve a co později.
 
 3. **Chtěl bych nové věci testovat**. Připravuje se nová verze systému a bude potřeba jí pořádně otestovat.
-4. **Chtěl bych psát a uptavovat tuto dokumentaci**.
+4. **Chtěl bych psát a upravovat tuto dokumentaci**.
 5. **Chtěl bych přímo přispívat v projektu jako programátor**. Není žádný problém. Kód je verzovaný, spolupráci se meze nekladou.
 
 Diskutovat nad věcmi můžeme společně na skupinovém chatu Discord. viz dále.
