@@ -27,7 +27,7 @@ V závislosti na šířce obrazovky se mohou některá data nezobrazovat. Typick
  - **počet přihlášených**
  - **místo centra**
  - **termíny** s **navýšením** plateb a jejich barevné zobrazení
- - p**ořádající suběkt**
+ - **pořádající suběkt**
  - **oblast**
  - **ORIS Id**
  - možnosti
