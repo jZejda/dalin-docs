@@ -24,17 +24,12 @@ Již delší dobu je na **Discord**-u založena místnost abychom se nemuseli p�
 vítán pod [tímto odkazem](https://discord.gg/tVGRPXPF). **Discord** běží i v prohlížeči stačí se [zaregistrovat](https://discord.com/register) a skrze pozvánku přihlásit do naší skupiny.
 :::
 
-### Na čem se aktuálně pracuje můžeš koknout tady:
- - [DaLin Board](https://abmadmin.notion.site/e8676dfd5fb9464fbd067255a1eddc65?v=f5e7734bbd5141a9be5ca9729dc659c9&pvs=4)
- - [Bude se vylepšovat](https://abmadmin.notion.site/Bude-se-vylep-ovat-be0adf28b2af45df875f9768e9ac67f8?pvs=4)
-
------
+### Pokud chci pomoci projektu:
 
 Jaké jsou požadavky pro člověka na vývoj? Znalost **PHP**, frameworku **Laravel** nebo Symfony, **JavaScript** plus okrajově **Vue.js**. Nově ještě
 **Livewire** v kombinaci s **alpine.js**, které používa knihovna FilamentPHP.
 Co je ale nejdůležitější, _chuť něco dělat případně se naučit_. Existuje spoustu kvalitních návodů, popisů nebo dokumentace.
 Zároveň není problém něco konkrétně vysvětlit, co jak bylo myšleno.
-
 
 ## Jak je to poskládané
 
@@ -49,3 +44,9 @@ Tedy konkrétně
    - **[.blade](https://laravel.com/docs/10.x/blade)** - použití standardního template jazyka Blade v Laravelu pro jakoukoliv jinou stránku
    - [Tailwind CSS](https://tailwindcss.com/) - je možné použít jakoukoliv třídu z verze **3.x**
      - [Flowbite](https://flowbite.com/) - je možné použít komponenty z free verze
+
+# Chtěl bych se zeptat
+
+Je tu [Discord](https://discord.gg/BcrhnNSaG5) pro nápady, dotazy a pod.
+
+Případně je možné napsat na e-mail: dalin@jirizejda.cz, ozveme se nazpět.

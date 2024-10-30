@@ -21,7 +21,6 @@ export default defineConfig({
       { text: 'Domů', link: '/' },
       { text: 'Uživatelská příručka', link: '/napoveda/index' },
       { text: 'Instalace', link: '/install/index' },
-      { text: 'Vývoj projektu', link: '/develop/index' },
       {
         text: 'Verze 11.2',
         items: [
@@ -30,6 +29,7 @@ export default defineConfig({
           { text: 'GitHub releases', link: 'https://github.com/jZejda/dalin/releases' }
         ]
       },
+      { text: 'O projektu', link: '/develop/index' },
     ],
 
     sidebar: {

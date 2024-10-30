@@ -20,8 +20,8 @@ hosting spolňoval ještě následující podmínky
 
 ## Vhodný webhosting
 
-Nechci dělat reklamu ale aktuálně nám to běží na serverech **Webglobe**. Pokud byste o hostingu uvažovali
-a chtěli mě podpořit, tak jej objednejte pod tímto linkem.
+Nechci dělat reklamu ale aktuálně nám to běží na serverech **[Webglobe](https://admin.webglobe.cz)**. Pokud byste o hostingu uvažovali
+a chtěli mě podpořit, tak jej objednejte pod [tímto linkem](https://webglobe.cz/?dealer=131151).
 
 Proč zrovna **Webglobe**. Mají v základu možnost využít ssh přístup, což je pro mě naprosto stěžejní v případě kdy:
  - aktualizuji projekt skrze `rsync`

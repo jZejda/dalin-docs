@@ -9,7 +9,7 @@ editLink: true
 
 ### :mega: Novinky
 - Vyplepšené **zobrazení bankovních transakcí**.
-- U bankovních transakcí je možné upravit **poznámku a pipis** transakce
+- U bankovních transakcí je možné upravit **poznámku a popis** transakce
 - Přidána **mapa** akcí z aktuálního kalendáře.
   - Mapa se zobrazuje na titulní stránce po přihlášení
   - Mapa se zobrazuje na titulní stránce webu s omezenými údaji pro public část webu
