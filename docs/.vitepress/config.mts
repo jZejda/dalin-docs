@@ -87,7 +87,7 @@ export default defineConfig({
             {
               text: 'Admin klubu',
               items: [
-                { text: 'Vytvořit registraci', link: '/napoveda/jak-pridat-uzivateli-registraci' },
+                { text: 'Nová registrace', link: '/napoveda/jak-pridat-uzivateli-registraci' },
               ]
             }
           ]
@@ -101,6 +101,7 @@ export default defineConfig({
           items: [
             { text: 'Úvod', link: '/install/index' },
             { text: 'Konfigurace stránky', link: '/install/site-config' },
+            { text: 'Napojen na banku', link: '/install/bank-connector' },
           ]
         }
       ],

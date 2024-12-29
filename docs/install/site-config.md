@@ -77,3 +77,94 @@ Veškeré přihlášky do závodů jsou prováděny pod tímto uživatelem. Čle
         ],
     ],
 ```
+
+## Přístupy k OpenWeather
+
+```php
+'open_map_forecast_api_key' => env('OPEN_MAP_API_KEY', 'open_map_forecast_api_key'),
+```
+
+- **open_map_forecast_api_key** - soukromý klíč k Open Weather API
+  API využívá [Free plan](https://openweathermap.org/price), kde je možné volat 1 milion volání za měsíc
+  V případě validních souřadnit LAT/LNG bude pět dní dopředu stránka zobrazovat předpověď počasi na danou hodinu startu závodu.
+
+## Cron úlohy
+
+### Hodinový cron
+
+::: warning Popis nastavení hodinového
+Systém se bude chovat předvídatelně, pokud si hodinový kron nastavíte opravdu jedno volání
+za hodinu. Takto je služba koncipována.
+:::
+
+::: info Popis nastavení hodinového cron-u individiální nastavení
+
+```
+active      - zapíná/vypíná spouštění ulohy (true/false)
+hours       - hodiny kdy se má uloha spouštět ['08', '22']
+days        - dny v měsíci kdy se má úloha spouštět ['01', '05', '22']
+months      - měsíce kdy se má uloha spouštět['01', '12']
+day_in_week - dny v týdnu, kdy se má uloha spouštět ['0', '1', '5'] 0 = neděle, 1 = ponedělí
+
+```
+
+:::
+
+**Příklad nastavení hodinového cronu:**
+
+```php
+'cron_hourly' => [
+    'url_key' => env('CRON_HOURLY_URL_KEY', 'url_key'),
+    'weather_forecast' => [
+        'active' => true,
+        'hours' => ['08', '15'],
+        'days_in_month' => ['*'],
+        'months' => ['*'],
+        'days_in_week' => ['*'],
+    ],
+    'event_update' => [
+        'active' => true,
+        'hours' => ['22', '04', '06'],
+        'days_in_month' => ['*'],
+        'months' => ['*'],
+        'days_in_week' => ['*'],
+    ],
+    'bank_transaction_sync' => [
+        'active' => true,
+        'hours' => ['*'],
+        'days_in_month' => ['*'],
+        'months' => ['*'],
+        'days_in_week' => ['*'],
+    ],
+    'mail_monthly_user_debit_report' => [
+        'active' => true,
+        'hours' => ['08'],
+        'days_in_month' => ['01'],
+        'months' => ['*'],
+        'days_in_week' => ['*'],
+    ],
+    'mail_weekly_user_event_summary' => [
+        'active' => true,
+        'hours' => ['08'],
+        'days_in_month' => ['*'],
+        'months' => ['*'],
+        'days_in_week' => ['0'],
+    ],
+    'mail_entry_ends_to_pay' => [
+        'active' => true,
+        'hours' => ['*'],
+        'days_in_month' => ['*'],
+        'months' => ['*'],
+        'days_in_week' => ['*'],
+    ],
+],
+
+```
+
+- **weather_forecast** - volá OpenWeather API, do volání jsou zahrnuty pouze akce, které maji do začátku 5 a méně dnů. S ohledem na limit free volání a počet eventů volte frekvenci volání.
+- **event_update** - frekvence aktualizace s ORIS-em
+- **bank_transaction_sync** - časy stahování nových bankovních transakcí
+- **mail_monthly_user_debit_report** - report uživatelů, kteří mají záporný stav uživatelského konta, e-mail chodí na roli Finančník
+- **mail_weekly_user_event_summary** - měsíční souhrn nadcházejících akcí, chodí na uživatele, kteří mají tento report zapnut
+- **mail_entry_ends_to_pay** - e-mail na finančníka v hodinu kdy byl ukončen pro zaplacení startovného
+
