@@ -13,10 +13,10 @@ Ujisti se že je platná registrace v ORISu, má vyplněny všechny platné nál
 2. **Klikni** na **uživatele** pro zobrazení podrobností
 3. V tabulce Závodní profil klikni na tlačítko **Vytvořit**.
 4. V otevřeném dialogu vyplň **platné registrační číslo** _(1)_ a klikni na ikonu lupy _(2)_.
-5. Z ORISu by se mělo dpolnit minimálně _jméno_, _příjmení_ a hlavně _ORIS ID_.
+5. Z ORISu by se mělo dpolnit minimálně _jméno_, _příjmení_ a hlavně _ORIS ID_ a _Club_ORIS_ID_ které je nutné pro jakékoliv přihlášení k závodům pod konkrétním klubem.
 6. Vyplň ostatní náležitosti a klikni na tlačítko `Vytvořit`.
 
-![Pridat registraci uzivateli](img/pridat-zavodni-profil.webp)
+![Pridat registraci uzivateli](img/pridat-zavodni-profil.png)
 
 ## Upravit závodní profil
 
