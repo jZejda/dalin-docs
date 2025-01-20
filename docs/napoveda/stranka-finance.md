@@ -28,4 +28,28 @@ Uživatel vidí stav konta a číslo účtu kam zasílat řádné i mimořádné
  - **úplně informace** k transakci
 
 
+## Jak správně zaslat mimořádný členský vklad
+
+Na stránce uživatelé vidí aktuální podobu variabiního symbolu jedná se o:
+- předčíslí (např.: **888**)
+- a náslendě 4 čísla z registrace uživatele (např.: **0101**)
+
+Například tedy: **8880101**. Podobný variabilní symbo se generuje uživatelům do QR kódu.
+
+Platby zaslané pod tímto variabilním symbolem budou automaticky připsány uživateli na účet.
+
+::: tip :bulb: Párování podle VS
+Pokud vám banka doplňuje variabilní symbol s doplněním 000 do celkem 10 znaků variabilního symbolu, není v tomto problém. I v tomto případě dojde k **automatickému spárování** transakce.
+
+**Automaticky se bude párovat:**
+- **8880101**
+- 000**8880101**
+:::
+
+Pokud se nepodaří transakci spárovat automaticky, může Finančních transakci napárovat ručně.
+
+----
+
+Prosíme 🙏 o zasílání plateb pod **správným a úplným variabilním symbolem**.
+
 

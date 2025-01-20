@@ -10,14 +10,18 @@ editLink: true
 ### :mega: Novinky
 - Konkrétní kreditní bankovní transakce lze jednoduše přiřadit **ručně uživateli**.
     - transakce nemusí být přiřazena celá, lze jí rozdělit mezi více uživatelů.
-    - k přidávané transakci lze **automaticky přidat poznámku**, kterou zároveň uvidí uživatel ve přehledu financí na účtu.
+    - k přidávané transakci lze **automaticky přidat poznámku**, kterou zároveň uvidí uživatel v přehledu financí na účtu.
     - automaticky přiřazené transakce jdou taktéž viditelné v přehledu transakcí
 - uživetli je možné nechat **vyresetovat heslo** a toto poslat na jeho e-mail.
-- možnost autentizace přihlášek POST požadavků (jakékoliv přihlášky na závody) skrze **`clubKey`**. Původně bylo možné _pouze_ skrze `user` a `password`.
+- při založení nového uživatele se na jeho e-mail zašle heslo k portálu.
+- pokud se v přihláškách neORISových závodů nachází už poslední závodní profil, je tento automaticky vybrán v selectBoxu.
+- v přehledu uživatelů byl přidán sloupec variabilního symbolu uživatele
+- možnost autentizace přihlášek `POST` požadavků (jakékoliv přihlášky na závody) skrze **`clubKey`**. Původně bylo možné _pouze_ skrze `user` a `password`.
 
 ### :wrench: Upravené funkce
 - při načítání závodního profilu se nově načítá i ID uživatele registrovaného ke **konkrétnímu klubu**. Bez spr8vně vyplněného `ClubOrisID` se nejde přihlašovat k závodům.
-- 
+- drobné překlepy a nelogičnosti
+- změna datového typu variabilního symbolu z `int` na `string` jelikož některé VS začínají nulou
 
 ## Verze 11.2 <Badge type="info" text="18.09.2024" />
 
