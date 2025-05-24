@@ -1,6 +1,17 @@
 ---
 title: Stránka Závodů/akcí
 editLink: true
+
+head:
+  - - meta
+    - name: description
+      content: Dalin - stránka finance
+  - - meta
+    - name: keywords
+      content: dalin finance
+  - - meta
+    - name: og:url
+      content: https://jirizejda.cz/dalin/stranka-finance.html
 ---
 
 # Finance <Badge type="tip" text="ČLEN" />
