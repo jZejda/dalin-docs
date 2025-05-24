@@ -140,7 +140,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Vydáno pod MIT licencí.',
-      copyright: 'Copyright © 2023-dosud Jiří Zejda'
+      copyright: 'Copyright © 2025-dosud Jiří Zejda'
     }
   },
   head: [
@@ -149,7 +149,7 @@ export default defineConfig({
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { property: 'og:title', content: 'DaLin dokumentace' }],
     ['meta', { property: 'og:description', content: 'DaLin klubový informační systém správy orientačních sportů' }],
-    ['meta', { property: 'og:image', content: '../assets/images/og.png' }],
+    ['meta', { property: 'og:image', content: 'https://jirizejda.cz/dalin/og.png' }],
     ['meta', { property: 'og:url', content: 'https://jirizejda.cz/dalin/' }],
     ['meta', { property: 'og:site_name', content: 'Dalin dokumentace' }],
     ['meta', { property: 'og:type', content: 'website' }]
