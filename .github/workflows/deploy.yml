@@ -3,7 +3,7 @@ name: Deploy VitePress Dalin DOCs Site
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-and-deploy:
