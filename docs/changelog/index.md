@@ -5,6 +5,18 @@ editLink: true
 
 # Novinky v aktuální verzi
 
+## Verze 11.4 <Badge type="info" text="09.06.2025" />
+
+### :mega: Novinky
+- **Nový formulář pro přiřazení cestovních náhrad**. Jedná se o zjednodušený proces vyúčtování dopravy mezi členy. Jednomu členu se částka strhne, druhému se přidá.
+- Přípravné fáze na **přechod na verzi PHP 8.4**
+- Bylo opraveno skritp který **vybírá závody k aktualizaci**. Toto asi nefungovalo, nově by se měly aktualizovat závody co jeden den
+- Stále bojujeme s Monetou ohledně aktualizace stahování plateb. Rok toto bezproblému fungovalo. Avšak, zdá se být vše na dobré cestě.
+
+### :wrench: Opravené bugy
+- **opravena funce na vybírání závodu k hromadné aktualizaci oproti ORISu**. Pravděpodobně to nikdy moc nefungovalo, jelikož tam byla celkem velká chyba.
+
+
 ## Verze 11.3 <Badge type="info" text="03.01.2025" />
 
 ### :mega: Novinky

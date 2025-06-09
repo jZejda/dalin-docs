@@ -22,7 +22,7 @@ export default defineConfig({
       { text: 'Uživatelská příručka', link: '/napoveda/index' },
       { text: 'Instalace', link: '/install/index' },
       {
-        text: 'Verze 11.3',
+        text: 'Verze 11.4',
         items: [
           { text: 'Aktuality ve verzi 11.x', link: '/changelog/index' },
           { text: 'Verze 10.x', link: '/changelog/v10' },
@@ -82,6 +82,12 @@ export default defineConfig({
               items: [
                 { text: 'Zaslat upozornění', link: '/napoveda/jak-poslat-upozorneni-prihlasenym-zavodnikum' },
                 { text: 'Export dat o závodu', link: '/napoveda/jak-exportovat-data-o-zavodu' },
+              ]
+            },
+            {
+              text: 'Finančník',
+              items: [
+                { text: 'Cestovní vyrovnání', link: '/napoveda/jednoduche-cestovni-vyrovnani' },
               ]
             },
             {

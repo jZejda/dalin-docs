@@ -25,7 +25,7 @@ Konkrétní znění požadavku na start prosím porostudujte s oficiální speci
 8. Kliknu na tlačítko **Přihlásit**. Tímto jsem přihlášen k závodu.
 9. Případně opakuji od bodu 3. pro dalšího závodníka, v případ že chci přihlásit více závodníků na jeden závod.
 
-![System create entry](system-create_entry.webp)
+![System create entry](system-create_entry.webp){.without-outline}
 
 ## Co zkontrolovat po přihlášení
 
