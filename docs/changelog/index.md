@@ -1,14 +1,50 @@
 ---
 title: Changelog
+description: Změny ve verzích projektu
+
+head:
+  - - meta
+    - name: description
+      content: Změny ve verzích projektu
+  - - meta
+    - name: keywords
+      content: DaLin changelog
+  - - meta
+    - property: og:url
+      content: /changelog/
+  - - meta
+    - property: og:type
+      content: article
+
 editLink: true
+outline: deep
+lastUpdated: true
 ---
 
 # Novinky v aktuální verzi
 
+## Verze 11.5 <Badge type="info" text="13.08.2025" />
+
+### :mega: Novinky
+- **Projekt přepnut na PHP 8.4**.
+- Přidán filtr na neaktivní/aktivního uživatele. 
+- Na řádku uživatele je možné vyvolat modál kde je možné aktivovat nebo deaktivovat uživatele. Deaktivovaní uživatelé se nemohou přihlásit do systému. Nejsou jim zasílány zprávy, původní data jako přehled financí a pod zůstává nezměněny.
+
+## Verze 11.4.1 <Badge type="info" text="28.07.2025" />
+
+### :mega: Novinky
+- **Ladíme PHP 8.4**. Dlouho odkládaný přechod na PHP verze 8.4. Nová verze PHP 8.5 už klepe na dveře tak není na co čekat. Aktualizace umožní projekt provozovat dlouhou dobu.
+- Security fix uvedený v [CVE-2025-54068](https://github.com/advisories/GHSA-29cq-5w36-x7w3)
+- Upravení stránky novinky k aktuálnímu používání. Nepovině schovaný editorial, uprava jedné možné volby obsahu. Opět se zde připravujeme na TipTam editor který bude obsažen ve FilamentPHP V4 jako default editor.
+
+### :wrench: Opravené bugy
+- **opraveno možnosti vkládání ulice u registrací**.
+
+
 ## Verze 11.4 <Badge type="info" text="09.06.2025" />
 
 ### :mega: Novinky
-- **Nový formulář pro přiřazení cestovních náhrad**. Jedná se o zjednodušený proces vyúčtování dopravy mezi členy. Jednomu členu se částka strhne, druhému se přidá.
+- **Nový [formulář](https://jirizejda.cz/dalin/napoveda/jednoduche-cestovni-vyrovnani.html) pro přiřazení cestovních náhrad**. Jedná se o zjednodušený proces vyúčtování dopravy mezi členy. Jednomu členu se částka strhne, druhému se přidá.
 - Přípravné fáze na **přechod na verzi PHP 8.4**
 - Bylo opraveno skritp který **vybírá závody k aktualizaci**. Toto asi nefungovalo, nově by se měly aktualizovat závody co jeden den
 - Stále bojujeme s Monetou ohledně aktualizace stahování plateb. Rok toto bezproblému fungovalo. Avšak, zdá se být vše na dobré cestě.
