@@ -29,6 +29,11 @@ lastUpdated: true
 - **Projekt přepnut na PHP 8.4**.
 - Přidán filtr na neaktivní/aktivního uživatele. 
 - Na řádku uživatele je možné vyvolat modál kde je možné aktivovat nebo deaktivovat uživatele. Deaktivovaní uživatelé se nemohou přihlásit do systému. Nejsou jim zasílány zprávy, původní data jako přehled financí a pod zůstává nezměněny.
+- Vypnul jsem nefungující cron ulohu na posílání novinek. Nově novinku může hromadně poslat redaktor v případě že uzná za vhodné že je text novinky hotový.
+  - Pokud se jedná o důležitou novinku, může jí poslat všem uživatelům
+
+### :wrench: Opravené bugy
+- **[oprava bugu](https://github.com/jZejda/dalin/commit/0611ce8c1e755013a20efbd3839cee1005c2b7d5)** správného přiřazení `userClubKey` u uživatelů kteří měli hystoricky více registrací. Aktuálně se porovnává s `RegNo`.
 
 ## Verze 11.4.1 <Badge type="info" text="28.07.2025" />
 

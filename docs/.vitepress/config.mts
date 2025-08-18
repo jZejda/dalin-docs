@@ -22,7 +22,7 @@ export default defineConfig({
       { text: 'Uživatelská příručka', link: '/napoveda/index' },
       { text: 'Instalace', link: '/install/index' },
       {
-        text: 'Verze 11.4',
+        text: 'Verze 11.5',
         items: [
           { text: 'Aktuality ve verzi 11.x', link: '/changelog/index' },
           { text: 'Verze 10.x', link: '/changelog/v10' },
