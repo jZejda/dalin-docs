@@ -34,7 +34,6 @@ Jak aplikace **vypadá** si můžete udělat představu na tomto obrázku. Jedn�
 Aplikace má spoustu jiných zajímavých stránek. Stačí je jen prozkoumat v sekci **Stránky**.
 
 ![Zavod/Akce](img/prehled-zavodu-akci.png)
-<img src="/napoveda/img/prehled-zavodu-akci.png" alt="Zavod/Akce" class="pure-image">
 
 <FeatureCards />
 

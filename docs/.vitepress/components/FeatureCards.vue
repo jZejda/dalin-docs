@@ -4,19 +4,19 @@
     <p class="intro">Prozkoumejte další funkce aplikace.</p>
     <div class="cards">
       <Card
-          icon="/dalin/assets/icons/hugeicons-user-multiple-02.svg"
+          icon="/dalin/changelog/icons/hugeicons-user-multiple-02.svg"
           title="Uživatelé"
           description="Přihlašování na závody, správa registrací, sledování termínovek."
           link="stranka-zavody-akce.html"
       />
       <Card
-          icon="/dalin/assets/icons/hugeicons-tools.svg"
+          icon="/dalin/changelog/icons/hugeicons-tools.svg"
           title="Instalace a nastavení"
           description="Jak správně aplikaci nainstalovat, nastavit a provozovat."
           link="/dalin/install/"
       />
       <Card
-          icon="/dalin/assets/icons/hugeicons-news.svg"
+          icon="/dalin/changelog/icons/hugeicons-news.svg"
           title="Novinky"
           description="Jaká jsou novinky v aplikaci? Chci se dozvědět více."
           link="/dalin/changelog/"

@@ -93,6 +93,7 @@ export default defineConfig({
             {
               text: 'Admin klubu',
               items: [
+                { text: 'Nový uživatel', link: '/napoveda/jak-zalozit-uzivatele' },
                 { text: 'Nová registrace', link: '/napoveda/jak-pridat-uzivateli-registraci' },
               ]
             }

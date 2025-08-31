@@ -51,6 +51,7 @@ Návod na získání **API tokenu** naleznete [zde](https://www.fio.cz/bankovni-
 | `name` | \{libovolný název\} | název propojení napojení na banku  |
 | `clase` | `fioBank` | název **třídy**, která bude výstup z banky zpracovávat |
 | `account_credentials` | viz příklad níže | upřesnění přístupových údajů konektoru |
+| `currency` | `CZK` | měna transakcí, pouze `CZK`  |
 | `active` | 1 | aktivuje/deaktivuje napojení na banku |
 
 ```{json}
