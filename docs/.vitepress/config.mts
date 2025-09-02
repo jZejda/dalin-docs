@@ -87,7 +87,8 @@ export default defineConfig({
             {
               text: 'Finančník',
               items: [
-                { text: 'Cestovní vyrovnání', link: '/napoveda/jednoduche-cestovni-vyrovnani' },
+                  { text: 'Bankovni výpis', link: '/napoveda/bankovni-vypis' },
+                  { text: 'Cestovní vyrovnání', link: '/napoveda/jednoduche-cestovni-vyrovnani' },
               ]
             },
             {

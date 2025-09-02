@@ -34,7 +34,7 @@ Zároveň není problém něco konkrétně vysvětlit, co jak bylo myšleno.
 ## Jak je to poskládané
 
 V roli backendu je zde [Laravel](https://laravel.com/) (aktuálně ve verzi 10). Půjdeme cestou časté aktualizace. Aktuálně 
-je nejnižší verze **PHP 8.3**. Dále doporučuji MySQL databázi 8+ u nižších verzích MySQL je potřeba trochu upravit migrace.
+je nejnižší verze **PHP 8.4**. Dále doporučuji MySQL databázi 8+ u nižších verzích MySQL je potřeba trochu upravit migrace.
 
 Líbilo by se mi dělat krásnou aplikaci rozdělenou na backena a frontend bohužl na toto nemám čas takže jsem šel kompromisem.
 Tedy konkrétně
