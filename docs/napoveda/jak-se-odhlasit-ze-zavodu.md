@@ -19,3 +19,13 @@ pro přehled o přihláškách. Přihlášky a odhlášky nejsou nikterak omezen
 ## Co zkontrolovat po odhlášení
 
 Pokud se jedná o závod vedený v ORISu, je potřeba odhlášku zkontrolovat přímo na ORIS stránce.
+
+## Odhlášení závodníka pověřeného k přihlašování
+
+Pokud spravujete závodníky i jinému uživateli, [uživatel vám dal právo ho přihlšovat/odhlašovat](stranka-uzivatelska-nastaveni), tak v této sekci uvidíte **možnost odhlásit** i tyto závodníky
+
+Odkaz a ikona koše pro odhlášení bude pro takové závodníky **oranžová**. U vámi napřímo spravovaných závodníků je naopak ikona a odkaz **červený**.
+
+Příklad je vidět na následujícím obrázku:
+
+![Odhlásit závodnika](img/smazani-prihlasek.png)

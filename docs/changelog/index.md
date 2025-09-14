@@ -34,11 +34,16 @@ lastUpdated: true
 - V seznamu závodů je možné **filtrovat** podle **ORIS ID** závodu
 - Opraveny překlepy na různých místech aplikace
 - Přídán **konektor** pro **[Fio banku](https://github.com/jZejda/dalin/issues/16)**. Klasicky aplikace umožňuje stahování plateb z různých účtů. Aplikace prochází všechny aktivní účty a páruje transakce.
+- Upraven výstup registrací čelenů - nově zobrazuje v přehledu adresu registrace člena
+- Nově se název závodu nebude synchronizovat s ORISem. Název se načte pouze poprvé a následně se již nebude aktualizovat.
+- Přidána možnost udělení souhlasu přihlašovat moje Registrace ve správně jinému uživateli. Tato volba je vhodná pro rodiny nebo blízké, kterým důvěřujete a tito vás mohou přihlašovat případně odhlašovat ze závodů. Souhlas můžete kdykoliv odebrat.
+- Nově může Organizátor případně Správce závodů kohokoliv odhlásit ze závodu.
 
 ### :wrench: Opravené bugy
 - **[oprava bugu](https://github.com/jZejda/dalin/commit/0611ce8c1e755013a20efbd3839cee1005c2b7d5)** správného přiřazení `userClubKey` u uživatelů kteří měli hystoricky více registrací. Aktuálně se porovnává s `RegNo`.
 - [ISSUE19](https://github.com/jZejda/dalin/issues/19) - Opraven bug **vypnutí** tlačítka pro **Správce závodu**, pokud se sám přihlásil do závodu všemi vlastními registracemi. Nově se tlačítko zneaktivní pouze u stornovaných závodů.
 - [ISSUE18](https://github.com/jZejda/dalin/issues/18) - Opraven bug **importu závodu** u kterého není vyplněn čas startu nebo se zasílá v nesprávném tvaru.
+- Generování QR kódu nezohledňovalo klubovou konfiguraci, nyní opraveno.
 
 ## Verze 11.4.1 <Badge type="info" text="28.07.2025" />
 

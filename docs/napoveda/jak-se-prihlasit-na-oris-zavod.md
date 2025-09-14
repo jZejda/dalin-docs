@@ -46,3 +46,12 @@ Závody se aktualizují jednou za 7 dnů. Pokud organizátor přidá kategorie n
 Postup je takový, že zkontroluješ, jestli má závod vyplněny kategorie na ORISu. Pokud ano, dáš vědět odpovědné osobě,
 data závodu zaktualizuje ručně.
 :::
+
+## Pokud spravuji závodníky i jinému uživateli
+
+V případě že vás jiný uživatel [opravnil jej přihlašovat nebo odhlašovat ze závodů](stranka-uzivatelska-nastaveni), vidíte zároveň
+své registrace (**černá barva**) tak závodíky uživatelů, kteří vám k tomu dali souhlas (**oranžová barva**).
+
+Takovéto závodníky můžete ze závodu i [odhlásit](jak-se-odhlasit-ze-zavodu).
+
+![Přihláška ostatních závodníků](img/prihlasi-ostatni.png)

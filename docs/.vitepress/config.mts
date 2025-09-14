@@ -52,7 +52,7 @@ export default defineConfig({
             { text: 'Závod/Akce', link: '/napoveda/stranka-zavody-akce' },
             { text: 'Detail akce', link: '/napoveda/stranka-zavod-detail' },
             { text: 'Přihlášky na akce', link: '/napoveda/stranka-prihlasky' },
-            { text: 'Nastavení notifikací', link: '/napoveda/stranka-nastaveni-notifikaci' },
+            { text: 'Uživatelská nastavení', link: '/napoveda/stranka-uzivatelska-nastaveni' },
             { text: 'Finance', link: '/napoveda/stranka-finance' },
             { text: 'Registrace', link: '/napoveda/stranka-registrace' },
             { text: 'Závodní profil', link: '/napoveda/member-race-profile' },
