@@ -50,7 +50,7 @@ Po přihlášení uvidíš úvodní oprazovku se souhrnem informací. Je zde vid
 Doporučujeme v bodech zkontrolovat tyto stránky:
 
 1. Na stránce[Závod/Akce](stranka-zavody-akce.md) se podívej na aktuální akce, na které je možné se[přihlásit](jak-se-prihlasit-na-oris-zavod).
-2. Na stránce[Nastavení notifikací](stranka-nastaveni-notifikaci.md) - si nastav zasílání zpráv podle preference
+2. Na stránce[Nastavení notifikací](stranka-uzivatelska-nastaveni.md) - si nastav zasílání zpráv podle preference
 3. Na stránce[Finance](stranka-finance.md) zkontroluj přehled transakcí.
 4. Na stránce Moje registrace zkontroluj údaje všech registrací které spravuješ.
 

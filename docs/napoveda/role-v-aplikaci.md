@@ -11,6 +11,9 @@ která může uživatel provádět. V aplikaci je možné získat následující
 - **Člen** - základní role
 - **Správce závodů** - umožňuje spravovat závody/akce a vše s tímto související
 - **Organizátor akcí** - u vytvořených závodů může provádět pokročilejší operace. Nemůže zakládat nové závody nebo je upravovat.
+  - může **kohokoliv přihlásit** a **odhlásit**
+  - může **poslat** na přihlášené uživatele v závodu **hromadnou e-mailovou zprávu**
+  - může **vyexportovat** do excelu (xlsx) **seznam přihlášených uživatelů** s popisem kategoríí a poznámek
 - **Redaktor** - spravuje obsah stránek, týkající se novinek, stránek médii a kategorizace obsahu
 - **Finančník** - má rozšířené práva k finančním činnostem
 - **Admin Klubu** - rozšířená práva na správu klubových náležitostí
