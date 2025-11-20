@@ -5,9 +5,9 @@ export default defineConfig({
   title: "dalin",
   description: "dalin - příručka",
   lastUpdated: true,
-  base: '/dalin/',
+  base: '/',
   sitemap: {
-    hostname: 'https://jirizejda.cz/dalin/'
+    hostname: 'https://docs.dalin.cz/'
   },
   themeConfig: {
     search: {
