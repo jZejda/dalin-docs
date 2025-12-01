@@ -29,6 +29,7 @@ export default defineConfig({
           { text: 'GitHub releases', link: 'https://github.com/jZejda/dalin/releases' }
         ]
       },
+      { text: 'API', link: 'https://registry.scalar.com/@default-team-gbfg7/apis/dalin-api-documentation/latest' },
       { text: 'O projektu', link: '/develop/index' },
     ],
 
