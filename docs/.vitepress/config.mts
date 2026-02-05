@@ -22,9 +22,10 @@ export default defineConfig({
       { text: 'Uživatelská příručka', link: '/napoveda/index' },
       { text: 'Instalace', link: '/install/index' },
       {
-        text: 'Verze 11.5',
+        text: 'Verze 12.x',
         items: [
-          { text: 'Aktuality ve verzi 11.x', link: '/changelog/index' },
+          { text: 'Verze 12.x', link: '/changelog/index' },
+          { text: 'Verze 11.x', link: '/changelog/v11' },
           { text: 'Verze 10.x', link: '/changelog/v10' },
           { text: 'GitHub releases', link: 'https://github.com/jZejda/dalin/releases' }
         ]
@@ -131,7 +132,8 @@ export default defineConfig({
         {
           text: 'Novinky',
           items: [
-            { text: 'Verze 11.x', link: '/changelog/index' },
+            { text: 'Verze 12.x', link: '/changelog/index' },
+            { text: 'Verze 11.x', link: '/changelog/v11' },
             { text: 'Verze 10.x', link: '/changelog/v10' },
           ]
         }

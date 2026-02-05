@@ -6,8 +6,8 @@ editLink: true
 # Jak instalovat projekt
 
 Pokud byste chtěli vyzkoušet **dalin-a** správce klubu orientačních sportů, budete potřebovat:
- - standardní webové prostředí **PHP** ve verzi >= **8.3** _(snažíme se mít projekt aktuální aby ho bylo možné provozovat beze změn co nejdéle)_
- - MySQL databázi ve verzi **8.x**
+ - standardní webové prostředí **PHP** ve verzi >= **8.4** _(snažíme se mít projekt aktuální aby ho bylo možné provozovat beze změn co nejdéle)_
+ - MySQL databázi ve verzi **8.x** nebo novější verzi MariaDB
  - **cron** úlohu spouštěnou **jednou za hodinu**
 
 ## Doporučená konfigurace
