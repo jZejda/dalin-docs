@@ -33,7 +33,7 @@ V nastavení **notifikací** je možné zapnout
 
 ## Automatizované systémové funkce
 
- - **AUTOMATICKY - aktualizuje data v závodu oproti ORISu**. Na termínovou listinu je možné vložit závod v případě, kdy má přiděleno ORIS ID následně se data aktualizují v předepsaném intervalu.
+ - **AUTOMATICKY - aktualizuje data v závodu oproti ORISu**. Na termínovou listinu je možné vložit závod v případě, kdy má přiděleno ORIS ID, následně se data aktualizují v předepsaném intervalu.
  - **Na vyžádání je možné provádět** téměř veškeré API volání do ORISu.
  - **Ze služby [OpenWeather](https://openweathermap.org/) stahuje 5 dnů před akcí aktuální počasí** s předpovědí v den konání.
- - Na konkrétních odkazech je možné nalinkovat do vlastních kalendářů `ics` **kalendáře závodů a tréninků**.
+ - Na konkrétních odkazech je možné nalinkovat do vlastních kalendářů `ICS` **kalendáře závodů a tréninků**.

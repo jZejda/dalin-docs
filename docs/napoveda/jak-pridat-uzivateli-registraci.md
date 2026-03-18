@@ -6,7 +6,7 @@ editLink: true
 # Jak přidat uživateli registraci <Badge type="info" text="Admin klubu" />
 
 ::: warning Před přidáním registrace
-Ujisti se že je platná registrace v ORISu, má vyplněny všechny platné náležitosti a má uhrazenou registraci na daný rok. V opačném případě nebude pravděpodobně fungovat přihlášení na závody.
+Ujisti se, že je platná registrace v ORISu, má vyplněny všechny platné náležitosti a má uhrazenou registraci na daný rok. V opačném případě nebude pravděpodobně fungovat přihlášení na závody.
 :::
 
 1. V menu **Uživatelé** najdi konkrétního uživatele, kterému chceš registraci přidat.

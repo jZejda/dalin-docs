@@ -39,7 +39,7 @@ Pokud naopak toto právo někdo přidělí vám, uvidíte takové registrace v p
 Stejně tak uvidíte v seznamu přihlášených oranžově možnost tyto závodníky odhlásit viz upřesnění na stránce přihlášek.
 :::
 
-## API Klíč <Badge type="tip" text="NOVĚ od verze 12" />
+## API klíč <Badge type="tip" text="NOVĚ od verze 12" />
 
 
 

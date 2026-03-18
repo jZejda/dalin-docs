@@ -19,7 +19,7 @@ editLink: true
    - Požadavky na start - kterou lze doplnit z přepřipraveného vzoru.
 
 ::: warning Jedná se pouze o návrh nejčastěji používaných vzorů
-Konkrétní znění požadavku na start prosím prostudujte s oficiální specifikací na [stránkách ORISu](https://oris.orientacnisporty.cz/files/help/Pozadovane-starty-prihlasky.pdf)
+Konkrétní znění požadavku na start prosím prostudujte v oficiální specifikaci na [stránkách ORISu](https://oris.orientacnisporty.cz/files/help/Pozadovane-starty-prihlasky.pdf)
 :::
 
 8. Kliknu na tlačítko **Přihlásit**. Tímto jsem přihlášen k závodu.

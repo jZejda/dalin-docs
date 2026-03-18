@@ -36,7 +36,7 @@ V seznamu vidíte aktuálně spravované závodní profily.
 
 ::: info Změna správy profilu
 Je možné, že časem bude profil přidělen jinému uživateli. Například si dítě bude chtít spravovat záležitosti samo.
-Profil přesune správce pro jiného uživatele, na profilu zůstanou vazby na závody apod.
+Profil přesune správce na jiného uživatele, na profilu zůstanou vazby na závody apod.
 :::
 
 ### Závodní profil obsahuje
