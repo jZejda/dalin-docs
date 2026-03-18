@@ -25,7 +25,7 @@ Při změně SI případně Licence apod. sem můžete zabrouzdat.
 Každý uživatel má minimálně jeden závodní profil. Může ale spravovat neomezeně profilů například své děti, nebo ostatní členy rodiny.
 
 :loudspeaker: **Nový závodní profil může tvořit pouze správce nebo uživatelé s tímto oprávněním.** Správce přidá závodní profil,
-pokud je tento zároveň i v ORISu, doplní i ID aby bylo možné se přihlašovat do závodů spravovaných ORISem.
+pokud je tento zároveň i v ORISu, doplní i ID, aby bylo možné se přihlašovat do závodů spravovaných ORISem.
 
 Pokud je jednou závodní profil vytvořen, můžete vybrané parametry upravovat. **Doporučuje se vyplnit minimálně SI** tento 
 bude zasílán s přihláškou na závody.

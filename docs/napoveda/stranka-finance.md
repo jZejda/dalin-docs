@@ -41,7 +41,7 @@ Uživatel vidí stav konta a číslo účtu kam zasílat řádné i mimořádné
 
 ## Jak správně zaslat mimořádný členský vklad
 
-Na stránce uživatelé vidí aktuální podobu variabilního symbolu jedná se o:
+Na stránce uživatelé vidí aktuální podobu variabilního symbolu. Jedná se o:
 - předčíslí (např.: **888**)
 - a následně 4 čísla z registrace uživatele (např.: **0101**)
 

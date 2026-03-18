@@ -8,7 +8,7 @@ editLink: true
 1. V menu **Závod/Akce** přejdu na kalendář závodů.
 2. Kliknu na konkrétní závod (kdekoliv na řádku závodu)
 3. V kartě závodu vidím potřebné informace o závodu, v pravo nahoře kliknu na tlačítko **Přihlásit na závod**.
-4. V otevřeném dialogu zvolím konkrétní registrační číslo závodníka kterého chci přihlašovat. Pod jedním účtem mohu mít více závodníků.
+4. V otevřeném dialogu zvolím konkrétní registrační číslo závodníka, kterého chci přihlašovat. Pod jedním účtem mohu mít více závodníků.
 5. Vyberu konkrétní **kategorii**
 6. Doplním číslo SI pokud se nevyplní samo z [profilu závodníka](member-race-profile).
 7. Pokud se jedná o etapový závod, jsou v rozvíracím menu automaticky vyplněny všechny etapy

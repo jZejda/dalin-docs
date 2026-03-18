@@ -29,7 +29,7 @@ V nastavení **notifikací** je možné zapnout
  - Pokud má člen [příslušné oprávnění](role-v-aplikaci), může zaslat hromadnou zprávu přihlášeným závodníkům v konkrétním závodě.
  - [Členové s vyšším oprávněním](role-v-aplikaci) mohou zaslat hromadnou zprávu všem aktivním členům nebo vybrané skupině členů.
  - Uživatelům s oprávněním **Finančník**, je zasílán e-mail k prvnímu v měsíci, členů se zápornou hodnotou osobního konta.
- - Uživatelům s oprávněními **Finančník**, je zasílán e-mail v době konce termínů závodů s upozorněním na zaslání platby přihlášeným členům
+ - Uživatelům s oprávněním **Finančník**, je zasílán e-mail v době konce termínů závodů s upozorněním na zaslání platby přihlášeným členům
 
 ## Automatizované systémové funkce
 

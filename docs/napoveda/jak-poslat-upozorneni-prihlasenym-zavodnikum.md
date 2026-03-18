@@ -8,8 +8,8 @@ editLink: true
 Na konkrétní stránce závodu je v záhlaví stránky tlačítko Pošli e-mail. Po kliknutí se zobrazí modální okno, kde je možné vyplnit:
 
 - **Předmět zprávy**
-- **Odpovědní adresu** - Na tuto adresu bude směrovat odpověď pokud někdo z příjemců klikne na odpovědět. Automaticky se doplňuje adresa přihlášeného uživatele.
-- **Tělo zprávy** - Tělo zprávy, kde je možné používat všech standardních `markdown` značek formátování textu. K formátování textu je možné použít výchozí editor.
+- **Odpovědní adresa** - Na tuto adresu bude směrovat odpověď pokud někdo z příjemců klikne na odpovědět. Automaticky se doplňuje adresa přihlášeného uživatele.
+- **Tělo zprávy** - Tělo zprávy, kde je možné používat všechny standardní `markdown` značky formátování textu. K formátování textu je možné použít výchozí editor.
 
 ::: info Odeslaný e-mail
 E-mailová zpráva bude obsahovat hlavičku o jaký závod se jedná s vámi doplněným textem z těla zprávy. Není potřeba uvádět o jaký závod
