@@ -8,7 +8,7 @@ editLink: true
 1. V menu **Závod/Akce** přejdu na kalendář závodů.
 2. Kliknu na konkrétní závod (kdekoliv na řádku závodu)
 3. V kartě závodu vidím potřebné informace o závodu, v pravo nahoře kliknu na tlačítko **Přihlásit na závod**.
-4. V otevřeném dialogu zvolím konkrétní registrační číslo závodníka kterého chci přihlašovat. Pod jedním účtem mohu mít vice závodníků.
+4. V otevřeném dialogu zvolím konkrétní registrační číslo závodníka kterého chci přihlašovat. Pod jedním účtem mohu mít více závodníků.
 5. Vyberu konkrétní **kategorii**
 6. Doplním číslo SI pokud se nevyplní samo z [profilu závodníka](member-race-profile).
 7. Pokud se jedná o etapový závod, jsou v rozvíracím menu automaticky vyplněny všechny etapy
@@ -18,12 +18,12 @@ editLink: true
    - Poznámka klubová
    - Požadavky na start - kterou lze doplnit z přepřipraveného vzoru.
 
-::: warning Jedná se pouze o návrh nějčastěji používaných vzorů
-Konkrétní znění požadavku na start prosím porostudujte s oficiální specifikací na [stránkách ORISu](https://oris.orientacnisporty.cz/files/help/Pozadovane-starty-prihlasky.pdf)
+::: warning Jedná se pouze o návrh nejčastěji používaných vzorů
+Konkrétní znění požadavku na start prosím prostudujte s oficiální specifikací na [stránkách ORISu](https://oris.orientacnisporty.cz/files/help/Pozadovane-starty-prihlasky.pdf)
 :::
 
 8. Kliknu na tlačítko **Přihlásit**. Tímto jsem přihlášen k závodu.
-9. Případně opakuji od bodu 3. pro dalšího závodníka, v případ že chci přihlásit více závodníků na jeden závod.
+9. Případně opakuji od bodu 3. pro dalšího závodníka, v případě, že chci přihlásit více závodníků na jeden závod.
 
 ![System create entry](system-create_entry.webp){.without-outline}
 
@@ -49,8 +49,8 @@ data závodu zaktualizuje ručně.
 
 ## Pokud spravuji závodníky i jinému uživateli
 
-V případě že vás jiný uživatel [opravnil jej přihlašovat nebo odhlašovat ze závodů](stranka-uzivatelska-nastaveni), vidíte zároveň
-své registrace (**černá barva**) tak závodíky uživatelů, kteří vám k tomu dali souhlas (**oranžová barva**).
+V případě, že vás jiný uživatel [oprávnil jej přihlašovat nebo odhlašovat ze závodů](stranka-uzivatelska-nastaveni), vidíte zároveň
+své registrace (**černá barva**) tak závodníky uživatelů, kteří vám k tomu dali souhlas (**oranžová barva**).
 
 Takovéto závodníky můžete ze závodu i [odhlásit](jak-se-odhlasit-ze-zavodu).
 

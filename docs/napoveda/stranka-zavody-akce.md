@@ -20,21 +20,21 @@ V závislosti na šířce obrazovky se mohou některá data nezobrazovat. Typick
 **V přehledu je možné vidět:**
 
  - ikonu akce
- - **oficiální název akce**, z názvem se může zobrazovat `pořádáme`, pro etapové **počet etap**
+ - **oficiální název akce**, s názvem se může zobrazovat `pořádáme`, pro etapové **počet etap**
    - pod oficiálním názvem akce je **neoficiální název**, který leckdy upřesní o co se jedná
  - **termín konání akce** v případě vícedenních závodů **od-do**
- - **předpověd počasí** na den akce, braná z [OpenWeatherAPI](https://openweathermap.org/api)
+ - **předpověď počasí** na den akce, braná z [OpenWeatherAPI](https://openweathermap.org/api)
  - **počet přihlášených**
  - **místo centra**
  - **termíny** s **navýšením** plateb a jejich barevné zobrazení
- - **pořádající suběkt**
+ - **pořádající subjekt**
  - **oblast**
  - **ORIS Id**
  - možnosti
 
 -----
 
-::: tip Pridat závod
+::: tip Přidat závod
 Vybrané role pak mohou v horní části najít tlačítka na možnost [přidání závodu z ORISu](jak-pridat-zavod.md), nebo vlastního závodu.
 :::
 
