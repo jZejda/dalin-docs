@@ -13,7 +13,7 @@ Co je ale nejdůležitější, _chuť něco dělat případně se naučit_. Exis
 Zároveň není problém něco konkrétně vysvětlit, co jak bylo myšleno.
 
 ::: tip Diskuse
-Založil jsem místnost na **Discord**-u abychom se nemuseli případně opakovat. Chceš se podělit s nápadem, dotazem a pod jsi
+Založil jsem místnost na **Discord**-u abychom se nemuseli případně opakovat. Chceš se podělit s nápadem, dotazem apod., jsi
 vítán pod [tímto odkazem](https://discord.gg/BcrhnNSaG5)
 :::
 

@@ -11,7 +11,7 @@ Stránku notifikací na e-mail naleznete pod odkazem **Nastavení notifikací** 
 
 ### Souhrn závodů kde první termín končí příští týden
 
-V sekci **Souhr závodů u kterých končí termín přihlášek následující týden** je možné zvolit, pro jaký sport
+V sekci **Souhrn závodů u kterých končí termín přihlášek následující týden** je možné zvolit, pro jaký sport
 chcete souhrn notifikací dostávat. Pokud není zvolen žádný sport, notifikace se nezašle.
 
 ::: info Kdy se e-mail zasílá

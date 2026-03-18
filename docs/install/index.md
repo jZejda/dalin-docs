@@ -16,7 +16,7 @@ Není podmínkou provozu projektu ale aby vše fungovalo tak jak bylo zamýšlen
 hosting spolňoval ještě následující podmínky
 
  - ještě jedna **cron** uloha **co 5 minut**
- - nějaký rychlý přístup k souborům jako **ssh** a pod.
+ - nějaký rychlý přístup k souborům jako **ssh** apod.
 
 ## Vhodný webhosting
 

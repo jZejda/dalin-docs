@@ -16,7 +16,7 @@ head:
 
 # Finance <Badge type="tip" text="ČLEN" />
 
-Na stránce financí můžete kontrolat stav osobních účtu, případně vznášet rozpor k dořešení.
+Na stránce financí můžete kontrolovat stav osobních účtů, případně vznášet rozpor k dořešení.
 
 ![Finance](img/stranka-finance.webp)
 
@@ -29,23 +29,23 @@ Uživatel vidí stav konta a číslo účtu kam zasílat řádné i mimořádné
 
 **V detailu je možné vidět:**
 
- - **ID transkace**, vhodné pokud se bavíme o nějaké konkrétní transakci
+ - **ID transakce**, vhodné pokud se bavíme o nějaké konkrétní transakci
  - **datum akce** ke které se pohyb vztahuje
  - **název akce**
  - pro jakou **registraci** je platba platná
- - pohyb na účtě
+ - pohyb na účtu
  - **poznámka** pokud byla vytvořená
  - **kdo** danou transakci provedl
- - **úplně informace** k transakci
+ - **úplné informace** k transakci
 
 
 ## Jak správně zaslat mimořádný členský vklad
 
-Na stránce uživatelé vidí aktuální podobu variabiního symbolu jedná se o:
+Na stránce uživatelé vidí aktuální podobu variabilního symbolu. Jedná se o:
 - předčíslí (např.: **888**)
-- a náslendě 4 čísla z registrace uživatele (např.: **0101**)
+- a následně 4 čísla z registrace uživatele (např.: **0101**)
 
-Například tedy: **8880101**. Podobný variabilní symbo se generuje uživatelům do QR kódu.
+Například tedy: **8880101**. Podobný variabilní symbol se generuje uživatelům do QR kódu.
 
 Platby zaslané pod tímto variabilním symbolem budou automaticky připsány uživateli na účet.
 
@@ -57,7 +57,7 @@ Pokud vám banka doplňuje variabilní symbol s doplněním 000 do celkem 10 zna
 - 000**8880101**
 :::
 
-Pokud se nepodaří transakci spárovat automaticky, může Finančních transakci napárovat ručně.
+Pokud se nepodaří transakci spárovat automaticky, může Finančník transakci napárovat ručně.
 
 ----
 

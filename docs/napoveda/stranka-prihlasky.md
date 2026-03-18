@@ -1,5 +1,5 @@
 ---
-title: Stránka Přihlášky na zavody
+title: Stránka Přihlášky na závody
 editLink: true
 ---
 
@@ -15,7 +15,6 @@ Pokud smažete aktivní filtr, uvidíte v přehledu všechny přihlášky i stor
  - **Kategorie**, do které jste přihlášen
  - **Konkrétní registrace**, vhodné rozlišení pokud spravuji více závodníků
  - **Datum přihlášky**, kdy jsem se na závod přihlásil
- - **Datum přihlášky**, kdy jsem se na závod přihlásil
    - Podrobnosti jako: 
      - požadavek na start
      - bylo požadováno zapůjčení čipu
@@ -23,9 +22,9 @@ Pokud smažete aktivní filtr, uvidíte v přehledu všechny přihlášky i stor
      - stav přihlášky
  - :information_source: **Info** obsahuje podrobnosti, které se do tabulky nevešly
 
-::: tip :bulb: Rychly odkaz na závod
+::: tip :bulb: Rychlý odkaz na závod
 **Název akce** je zároveň **odkaz** na konkrétní závod, kde můžete zkontrolovat aktuální dění na kartě závodu nebo se třeba odhlásit.
 :::
 
 ## Další akce
-Na této stránce nejsou dostupné žádné další akce. Slouží převážByL6Syyxně ke kontrole, na jaký závod jsem přihlášen. Případně historicky kde jsem závodil.
+Na této stránce nejsou dostupné žádné další akce. Slouží převážně ke kontrole, na jaký závod jsem přihlášen. Případně historicky kde jsem závodil.

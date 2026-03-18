@@ -30,13 +30,13 @@ Co je potřeba k automatickému párování plateb nastavit je popsáno na strá
 
 ![Stránka bankovního výpisu](img/bankovni-vypis.png)
 
-Na stránku bankovního výpisu se dostaneme z postraního menu z odkazu **Bankovní výpis**. Na stránce můžeme vidět/provádět
+Na stránku bankovního výpisu se dostaneme z postranního menu z odkazu **Bankovní výpis**. Na stránce můžeme vidět/provádět
 1. **Odkaz** na stránku
-2. **Vidíme debetní položky** s detailem a popisem transkace
+2. **Vidíme debetní položky** s detailem a popisem transakce
 3. **Vidíme kreditní položky** s detailem a popisem transakce
-4. **Vidíme navazující účtní položku** uživatele
+4. **Vidíme navazující účetní položku** uživatele
 5. **Možnost upravit popis transakce**
-6. Možnost **ručně přida navazující účetní operace**
+6. Možnost **ručně přidat navazující účetní operace**
 
 ::: tip
 Ve sloupci Variabilní symbol jsou informace **variabilní symbol** a **účet** ze kterého byla transakce provedena.
@@ -53,13 +53,13 @@ Konkrétní výpis lze vidět v modálním okně vyvolaném z menu **Přidat tra
 
 Správce financí si může různě popisovat bankovní transakce pro lepší přehled.
 
-![Přiřadit transakci](img/bankovni-vypis-upravit.png))
+![Přiřadit transakci](img/bankovni-vypis-upravit.png)
 
 ## Přidat transakci uživateli
 
 Pokud není transakce automaticky přiřazena uživateli a měla by, může jí na této stránce správce **přiřadit ručně**. 
 
-Částku může rozdělit a přiřadit více uživatelům. **Seznam všech interních transakcí** které jsou vázány na tento záznam z BU, je vidět v modálním okně jako výpis navazujících transakcí v seznanu vytvořených navázných interních záznamů.
+Částku může rozdělit a přiřadit více uživatelům. **Seznam všech interních transakcí** které jsou vázány na tento záznam z BU, je vidět v modálním okně jako výpis navazujících transakcí v seznamu vytvořených navázaných interních záznamů.
 
 Většinou se však jedná o jednu transakci jednomu uživateli připsané v plné výši viz ukázka.
 

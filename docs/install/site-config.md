@@ -52,7 +52,7 @@ Základní informace o klubu.
     ],
 ```
 
-- **abbr** - zkratka klubu, je celkem důležitá, odvozuje se registrace členů a pod.
+- **abbr** - zkratka klubu, je celkem důležitá, odvozuje se registrace členů apod.
 - **full_name** - celý náze klubu
 - **iban** - IBAN hlavního účtu, na který se zasílají členské vklady
 - **user_credit_limit** - `celé číslo` financí osobního konta člena, hodnota od které se nebude moci uživatel přihlásit na závod
@@ -63,7 +63,7 @@ Základní informace o klubu.
 ## Přístupy na ORIS
 
 Abyste mohli využívat API ORISu, je potřeba vložit jméno a heslo oris uživatele, který má vysoká práva jako přihlášení
-odhlášení členů do závodu, čtení informací o registrací a pod.
+odhlášení členů do závodu, čtení informací o registrací apod.
 
 ::: warning Uživatel ORISu
 Veškeré přihlášky do závodů jsou prováděny pod tímto uživatelem. Členové klubu nemusí mít právo se sami přihlašovat do ORISu.

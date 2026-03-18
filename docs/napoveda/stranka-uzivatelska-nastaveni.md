@@ -7,13 +7,13 @@ editLink: true
 
 Stránka je rozdělená v levém sloupci do jednotlivých podsekcí.
 - E-mailové notifikace
-- Filtry zobrazeni
+- Filtry zobrazení
 - Ostatní
 - API klíč
 
 ## E-mailové notifikace
 
-Stránke zobrazuje předefinované kanály notifikaci s uživatelskou volbou co kdy se má posílat.
+Stránka zobrazuje předdefinované kanály notifikací s uživatelskou volbou co kdy se má posílat.
 
 ![Nastavení notifikací](img/stranka-uzivatelska-nastaveni.png)
 
@@ -28,18 +28,18 @@ Stránke zobrazuje předefinované kanály notifikaci s uživatelskou volbou co 
 ## Ostatní
 V této sekci je možné vybrat uživatele, kteří vás mohou **přihlašovat** nebo **odhlašovat** z **jakýchkoliv** závodů.
 
-Toto nastavení se hodí v případě rodiných příslušníků nebo blízkých přátel. Tito vás budou moci přihlašovat nebo
+Toto nastavení se hodí v případě rodinných příslušníků nebo blízkých přátel. Tito vás budou moci přihlašovat nebo
 odhlašovat ze závodů. 
 
 Toto **oprávnění můžete kdykoliv libovolně odvolat** smazáním uživatelů (_křížek_) a uložením nastavení.
 
 ::: tip
-Pokud naopak toto právo někdo přidělí vám, udivíte takové registrace v přihláškovém formuláři podbarvené oranžově.
+Pokud naopak toto právo někdo přidělí vám, uvidíte takové registrace v přihláškovém formuláři podbarvené oranžově.
 
 Stejně tak uvidíte v seznamu přihlášených oranžově možnost tyto závodníky odhlásit viz upřesnění na stránce přihlášek.
 :::
 
-## API Klič <Badge type="tip" text="NOVĚ od verze 12" />
+## API klíč <Badge type="tip" text="NOVĚ od verze 12" />
 
 
 

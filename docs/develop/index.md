@@ -20,7 +20,7 @@ a dokážu popsat chování nové funkce. Takový malý produktová manager. Uko
 Diskutovat nad věcmi můžeme společně na skupinovém chatu Discord. viz dále.
 
 ::: tip Diskuse
-Již delší dobu je na **Discord**-u založena místnost abychom se nemuseli případně opakovat. Chceš se podělit s nápadem, dotazem a pod jsi
+Již delší dobu je na **Discord**-u založena místnost abychom se nemuseli případně opakovat. Chceš se podělit s nápadem, dotazem apod., jsi
 vítán pod [tímto odkazem](https://discord.gg/tVGRPXPF). **Discord** běží i v prohlížeči stačí se [zaregistrovat](https://discord.com/register) a skrze pozvánku přihlásit do naší skupiny.
 :::
 
@@ -47,6 +47,6 @@ Tedy konkrétně
 
 # Chtěl bych se zeptat
 
-Je tu [Discord](https://discord.gg/BcrhnNSaG5) pro nápady, dotazy a pod.
+Je tu [Discord](https://discord.gg/BcrhnNSaG5) pro nápady, dotazy apod.
 
 Případně je možné napsat na e-mail: dalin@jirizejda.cz, ozveme se nazpět.

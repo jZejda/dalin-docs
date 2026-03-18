@@ -30,23 +30,23 @@ finance** za **cestovní náklady** mezi členy klubu dohodnutou částkou na kt
 
 ## Jak toto provedu
 
-V sekci Vyúčtování akci je nově rozvírací menu **Nový záznam** s jednou akci **Cestovní rozůčtování**
+V sekci Vyúčtování akcí je nově rozvírací menu **Nový záznam** s jednou akcí **Cestovní rozúčtování**
 
 ![Dialog rozúčtování](img/finance-novy-zaznam-cestovne-dialog.png)
 
-### Pro správné rozůčtování stačí provést tyto akce:
+### Pro správné rozúčtování stačí provést tyto akce:
 
-1. Zvolím **plusovou částku**, kerá bude přičtena uživateli
+1. Zvolím **plusovou částku**, která bude přičtena uživateli
 2. Vyberu uživatele, kterému se **povýší** účet o zvolenou částku - částka mu bude připsána
-3. Vyberu uživatele, kterému se stejná částka **ztrhne** z virtuálního účtu - částka mu bude stržena
-4. Je možné zapsat **poznámku**, která se zobrazí u transkací oběma uživatelům
+3. Vyberu uživatele, kterému se stejná částka **strhne** z virtuálního účtu - částka mu bude stržena
+4. Je možné zapsat **poznámku**, která se zobrazí u transakcí oběma uživatelům
 5. Je možné zvolit k jakému závodu se toto vztahuje
-6. **Potvdíme** rozůčtování
+6. **Potvrdíme** rozúčtování
 
 ---
 
-Uživatelé standardně uvidí záznamy o připsání nebo střžení částky za cestovné.
+Uživatelé standardně uvidí záznamy o připsání nebo stržení částky za cestovné.
 
 ::: tip Info
-Oba záznamy mají **odkaze jeden na druhý**. Záznamy je **možné standardně kdykoliv editovat** v případě nesprávného zadání nebo jiné chyby.
+Oba záznamy mají **odkaz jeden na druhý**. Záznamy je **možné standardně kdykoliv editovat** v případě nesprávného zadání nebo jiné chyby.
 :::
