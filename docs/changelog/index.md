@@ -23,6 +23,26 @@ lastUpdated: true
 
 # Novinky v aktuální verzi
 
+## Verze 12.1 <Badge type="info" text="04.2026" />
+
+### :sparkles: Nové funkce
+
+- **Moje nejbližší závody na nástěnce** — stránka Uživatelského nastavení zobrazuje dvě nejbližší nadcházející přihlášky přímo na nástěnce bez nutnosti přecházet na stránku přihlášek
+
+### :wrench: Vylepšení
+
+- **Termíny přihlášek jako barevné dlaždice** — termíny přihlášek v přehledu závodů jsou nově zobrazeny jako přehledné dlaždice s barevným rozlišením: zelená (otevřeno), oranžová (blíží se uzávěrka), šedá (prošlé)
+- **Místo konání v přehledu závodů** — u každého závodu se pod názvem zobrazuje místo konání
+- **Předpověď počasí** — opraveno zobrazení ikon pro oblačné a deštivé počasí v nočních hodinách
+- **Nástěnka Uživatelského nastavení** — přepracované kartičky s vylepšeným vzhledem a doplněnou kartou nejbližších závodů
+
+### :beetle: Opravy
+
+- **Přihlašovací formulář — vyhledávání závodníka** — opraveno vyhledávání závodníka přes ORIS ID (dříve se hledalo podle interního ID)
+- **Formát datumů a časů** — odstraněny nadbytečné mezery v zobrazovaných datech (např. `1.4.2026` místo `1. 4. 2026`)
+
+---
+
 ## Verze 12.0 <Badge type="info" text="06.01.2026" />
 
 ### :mega: Novinky

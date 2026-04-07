@@ -5,7 +5,13 @@ editLink: true
 
 # Uživatelská nastavení <Badge type="tip" text="ČLEN" />
 
-Stránka je rozdělena do čtyř záložek (v levém sloupci):
+Po přihlášení se zobrazuje **nástěnka** s přehledovými kartičkami:
+
+- **Uživatel a jeho práva** — zobrazuje vaše jméno, datum registrace, e-mail a aktuální role; odkaz na dokumentaci k rolím
+- **Moje nejbližší závody** — dvě nejbližší nadcházející přihlášky na závody (datum, název, kategorie, místo); pokud žádné přihlášky nemáte, zobrazí se odkaz na seznam závodů
+- **Verze aplikace** — aktuální verze aplikace a odkaz na changelog
+
+Stránka je dále rozdělena do čtyř záložek (v levém sloupci):
 
 - **E-mailové nastavení** — co a kdy vám systém posílá e-mailem
 - **Filtry zobrazení** — vlastní záložky pro filtrování seznamu závodů

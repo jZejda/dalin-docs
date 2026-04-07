@@ -22,11 +22,15 @@ V závislosti na šířce obrazovky se mohou některá data nezobrazovat. Typick
  - ikonu akce
  - **oficiální název akce**, s názvem se může zobrazovat `pořádáme`, pro etapové **počet etap**
    - pod oficiálním názvem akce je **neoficiální název**, který leckdy upřesní o co se jedná
+   - pod názvem se zobrazuje i **místo konání** (je-li vyplněno)
  - **termín konání akce** v případě vícedenních závodů **od-do**
  - **předpověď počasí** na den akce, braná z [OpenWeatherAPI](https://openweathermap.org/api)
  - **počet přihlášených**
- - **místo centra**
- - **termíny** s **navýšením** plateb a jejich barevné zobrazení
+ - **termíny přihlášek** — zobrazeny jako barevné dlaždice:
+   - :green_circle: **zelená** — přihlášky jsou otevřené
+   - :orange_circle: **oranžová** — uzávěrka se blíží (méně než 5 dní)
+   - :white_circle: **šedá** — termín přihlášek již prošel
+   - je-li za daný termín navýšení poplatku, zobrazí se jeho výše v procentech
  - **pořádající subjekt**
  - **oblast**
  - **ORIS Id**
