@@ -5,7 +5,7 @@ import FeatureCards from "../components/FeatureCards.vue";
 import Card from "../components/Card.vue";
 
 export default {
-  ...DefaultTheme,
+  extends: DefaultTheme,
   enhanceApp({ app }) {
     app.component('FeatureCards', FeatureCards);
     app.component('Card', Card);
